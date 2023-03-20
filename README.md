@@ -1,5 +1,6 @@
 # Embedded Artistry templates
 
+
 We like to keep our documentation under revision control and in the same repository as our source code. These templates reflect some of the different types of documentation that we typically include on our projects:
 
 * Common open-source documentation (README, CONTRIBUTING, GitHub templates)
